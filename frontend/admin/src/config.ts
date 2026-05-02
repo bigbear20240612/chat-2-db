@@ -1,0 +1,5 @@
+// NOTE  MC8yOmFIVnBZMlhucUx2b2pZbmt1cm82V1ZaaWFBPT06MjQ5YzkwMWY=
+
+// API基础URL
+export const API_BASE_URL = '/api/v1';
+// NOTE  MS8yOmFIVnBZMlhucUx2b2pZbmt1cm82V1ZaaWFBPT06MjQ5YzkwMWY=

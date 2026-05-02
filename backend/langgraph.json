@@ -1,0 +1,17 @@
+{
+  "dependencies": [
+    "."
+  ],
+  "_buildId": "id_MC81OmFIVnBZMlhucUx2b2pZbmt1cm82VmxwMGRnPT06MmJkZWVmODg=",
+  "graphs": {
+    "sql_agent": {
+      "path": "./app/agents/chat_graph.py:graph"
+    }
+  },
+  "_deployId": "id_MS81OmFIVnBZMlhucUx2b2pZbmt1cm82VmxwMGRnPT06MmJkZWVmODg=",
+  "env": ".env",
+  "_releaseId": "id_Mi81OmFIVnBZMlhucUx2b2pZbmt1cm82VmxwMGRnPT06MmJkZWVmODg=",
+  "image_distro": "wolfi",
+  "_versionId": "id_My81OmFIVnBZMlhucUx2b2pZbmt1cm82VmxwMGRnPT06MmJkZWVmODg=",
+  "_buildHash": "NC81OmFIVnBZMlhucUx2b2pZbmt1cm82VmxwMGRnPT06MmJkZWVmODg="
+}
